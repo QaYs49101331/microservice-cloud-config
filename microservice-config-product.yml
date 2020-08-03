@@ -35,7 +35,7 @@ eureka:
     instanceId: ${spring.application.name}:${server.port}
     prefer-ip-address: true
 emp:
-  name: 金蝉6565565656
+  name: 金蝉65655656888888
 
 ---
 server:
